@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+    color: brown;
+    text-align: center;
+    font-family: helvetica;
+    width: 80%;
+    border: 2px solid black;
+    padding: 50px;
+    align-content: center;
+}
+
+h2 {
+    font-size: 17px;
+}
+
+p {
+    font-size: .8;
+}
+
+.teddybear {
+    width: 30%;
+    border: 3px solid black;
+}
